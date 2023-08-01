@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E1n6s3nbguEAHtJnUMD6y+Ouq5GLTmvdkvRQpVDTbdYkrOmAF49Pb4S3ONLBtvwAnv62rr4O2+soZwyPbrxjJQ==",
+  "success": true,
+  "projectFilePath": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amol Joshi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\Amol Joshi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

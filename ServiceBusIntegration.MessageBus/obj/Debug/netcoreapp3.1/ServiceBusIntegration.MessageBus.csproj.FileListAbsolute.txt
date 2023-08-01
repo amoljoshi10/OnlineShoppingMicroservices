@@ -1,0 +1,10 @@
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\bin\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.deps.json
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\bin\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.dll
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\bin\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.pdb
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.csproj.AssemblyReference.cache
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.AssemblyInfoInputs.cache
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.AssemblyInfo.cs
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.csproj.CoreCompileInputs.cache
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.dll
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.pdb
