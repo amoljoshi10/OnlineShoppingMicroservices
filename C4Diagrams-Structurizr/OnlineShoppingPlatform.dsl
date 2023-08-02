@@ -111,9 +111,10 @@
         relationship "Relationship" {
                     color #000000
                     dashed false
-            fontSize 28
+                    fontSize 28
                 }
                 element "Person" {
+                    background #08427b
                     color #ffffff
                     fontSize 22
                     shape Person
@@ -173,4 +174,3 @@
   
         }
     }
-           
